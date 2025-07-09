@@ -8,6 +8,6 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
-        System.out.println("Here is greetings from second dev");
+        System.out.println("New changes from dev 2");
     }
 }
