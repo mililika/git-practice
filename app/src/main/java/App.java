@@ -13,6 +13,13 @@ public class App {
         System.out.println("Here is greetings from second dev");
         System.out.println("Here is greetings from second dev");
         System.out.println("Here is greetings from second dev");
+        System.out.println("Here is greetings from second dev");
+
+    }
+
+    public void something() {
+        System.out.println("App.something()");
+
     }
 
 }
